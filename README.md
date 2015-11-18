@@ -1,7 +1,6 @@
-ecc-lib-wince - a WinCE port of ECC-LIB
-Patroklos Argyroudis <_ at domain argp.gr>
+# ecc-lib-wince - a WinCE port of ECC-LIB
 
-Introduction
+## Introduction
 
 This is a collection of the files that I modified in order to get ECC-LIB
 (version 2.0) to compile for Windows CE.  Since ECC-LIB requires the GNU
@@ -11,7 +10,7 @@ I have only tested it on a Compaq iPAQ H3630 (ARM) running the Windows CE
 (3.00) Pocket PC 2002 operating system.  If you manage to compile it and
 test it on other Windows CE platforms, let me know.
 
-Compilation and installation
+## Compilation and installation
 
 To compile it just copy the files provided here to the distribution
 directory of ECC-LIB 2.0 and overwrite the existing files there, then
@@ -29,8 +28,7 @@ You can find ECC-LIB at:
 
 http://www.ceid.upatras.gr/faculty/zaro/software/ecc-lib/
 
-Acknowledgements
+## Acknowledgements
 
 Elisavet Konstantinou, Yannis Stamatiou and Christos Zaroliagis, for a
 great library and for making their work available.
-
